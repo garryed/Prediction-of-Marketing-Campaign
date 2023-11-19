@@ -8,3 +8,5 @@ The dataset is divided into two parts- training and testing. The training datase
 
 I plan to begin by data visualization and preprocessing such as one-hot encoding, imputation, data scaling, etc. I will also use feature selection techniques like Information Gain, GINI Index, etc. to identify relevant features. The dataset will be trained using models such as decision tree classifiers, K- nearest neigh-
 bors (KNN), random forest classifiers, logistic regression, Adaboost, Gradient Boosting, Support Vector Machine, etc, alongwith hyper parametric tuning and 5- fold validation. I will also construct a confusion matrix to find the precision, accuracy, recall, F1- measure on each of the classifiers. Based on the evaluation metrics, the best model will be used to find the labels for the test dataset.
+
+Note: This project wass done as a part of the course- ECS308: Machine Learning.
